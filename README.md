@@ -10,7 +10,7 @@ Thanks for your interest in Ozobot
 
 Your challenge is to build out this pricing component and get it looking as close to the design as possible.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+You can use any tools you like to help you complete the challenge. 
 
 Your users should be able to:
 
@@ -31,14 +31,7 @@ There is also a `style-guide.md` file, which contains the information you'll nee
 
 ## Building your project
 
-Practice using version control by creating your own GitHub repository for this challenge. This has the added benefit of being able to publish the site for free on GitHub Pages. Find out more about GitHub Pages here: [https://pages.github.com](https://pages.github.com).
-
-Also, you could try building this project in a team. This is a great way to practice collaborative coding.
-
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
+Fork this repository and make a Pull Request with your changes.
 
 
 ## Giving feedback
